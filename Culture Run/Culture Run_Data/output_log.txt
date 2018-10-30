@@ -1,0 +1,44 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.287 seconds
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity - save\gawe\Culture Run\Culture Run\Culture Run_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.874663 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.704918 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 1.016375 ms (FindLiveObjects: 0.091525 ms CreateObjectMapping: 0.042882 ms MarkObjects: 0.618274 ms  DeleteObjects: 0.262414 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.504457 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 591.
+Total: 1.099580 ms (FindLiveObjects: 0.163208 ms CreateObjectMapping: 0.041602 ms MarkObjects: 0.869167 ms  DeleteObjects: 0.023681 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.717854 ms
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 239.
+Total: 1.988589 ms (FindLiveObjects: 0.163208 ms CreateObjectMapping: 0.075524 ms MarkObjects: 0.405782 ms  DeleteObjects: 1.340233 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1288 -> priority: 1 
